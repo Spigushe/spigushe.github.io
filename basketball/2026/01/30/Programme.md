@@ -4,7 +4,7 @@ Attendu 14 personnes
 
 # Echauffement
 
-* [Echauffement](./Echauffement)
+* [Echauffement, renforcement musculaire, fréquence cardiaque](./Echauffement)
 
 # Exercices
 
